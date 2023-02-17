@@ -1,6 +1,6 @@
 /*
     * Title: Problem 5
-    * This program is about: 
+    * This program is about: Date formate
     Author:
     Author Email:
 */

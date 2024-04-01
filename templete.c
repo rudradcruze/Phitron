@@ -1,8 +1,8 @@
 /*
     * Title: Problem
     * This program is about:
-    Author:
-    Author Email:
+    Author: Francis Rudra D Cruze
+    Author Email: francisrudra@gmail.com
 */
 #include <stdio.h>
 int main()

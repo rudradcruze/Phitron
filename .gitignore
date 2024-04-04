@@ -31,7 +31,8 @@ programming.code-workspace
 
 # OS generated files #
 ######################
-.DS_Store
+*.cph
+*.DS_Store
 .DS_Store?
 ._*
 .Spotlight-V100

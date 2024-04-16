@@ -13,7 +13,7 @@ int main()
     int single = num % 10;
     num = num / 10;
 
-    if (single % num == 0 || num % single == 9)
+    if (single % num == 0 || num % single == 0)
         printf("YES\n");
     else
         printf("NO\n");

@@ -6,7 +6,7 @@
 */
 #include <stdio.h>
 
-int summation(int array[], int n, int i)
+long long summation(long long array[], int n, int i)
 {
     if (i == n)
         return 0;
@@ -19,12 +19,12 @@ int main()
 
     int test;
     scanf("%d", &test);
-    int array[test];
+    long long array[test];
     for (int i = 0; i < test; i++)
     {
-        scanf("%d", &array[i]);
+        scanf("%lld", &array[i]);
     }
-    printf("%d", summation(array, test, 0));
+    printf("%lld", summation(array, test, 0));
 
     return 0;
 }

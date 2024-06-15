@@ -1,6 +1,6 @@
 # CS Fundamentals With Phitron: Spring 2024 | Semester 1
 
-## Course 1: Introduction to Programming Language
+## [Course 1: Introduction to Programming Language](./Introduction-to-Programming-Language/)
 
 <details>
 <summary>Week 1: Basic Syntax, Condition & Loop</summary>

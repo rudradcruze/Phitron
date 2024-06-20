@@ -1,0 +1,2 @@
+
+        this->classs = classs;

@@ -22,6 +22,7 @@ int main()
     int *a = new int;
     *a = 10;
     cout << *a << endl;
+    delete a; // delete the dynamic variable
 
     float *b = new float;
     *b = 10.10;

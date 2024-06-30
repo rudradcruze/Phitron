@@ -5,16 +5,30 @@
     Email: francisrudra@gmail.com
 */
 #include <bits/stdc++.h>
-#include <climits>
+
 using namespace std;
 
 int main()
-{    
-    int n;
-    cin >> n;
-    char str[n+1];
-    cin >> str;
-    sort(str, str + strlen(str));
-    cout << str << endl;
+{
+    int array[26] = {0};
+    int size;
+    cin >> size;
+
+    char c;
+
+    for (int i = 0; i < size; i++)
+    {
+        cin >> c;
+        array[c - 'a']++;
+    }
+
+    for (int i = 0; i < 26; i++)
+    {
+        for (int j = 0; j < array[i]; j++)
+        {
+            cout << (char)('a' + i);
+        }
+    }
+
     return 0;
 }

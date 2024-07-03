@@ -37,3 +37,23 @@
         <li>Pointer</li>
     </ul>
 </details>
+
+## [Course 2: Introduction to C++ for DSA](./Introduction-to-C++-for-DSA/)
+
+<details>
+<summary>Week 1: Basic Operators and OOP</summary>
+    <ul>
+        <li>Basic Operators</li>
+        <li>Dynamic Memory Allocation</li>
+        <li>Class and Object</li>
+    </ul>
+</details>
+
+<details>
+<summary>Week 2: String and OOP</summary>
+    <ul>
+        <li>String</li>
+        <li>Class and String</li>
+        <li>Array of Objects</li>
+    </ul>
+</details>
